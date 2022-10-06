@@ -1,0 +1,6 @@
+{
+    "basepath" : "./Object_casedocs/",
+    "fileidprefix" : "C",
+    "fileidsuffix" : ".txt",
+    "outfile" : "./out/output.csv"
+}
